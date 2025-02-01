@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nak-boost
+- 👋 Hi, I’m Nak
 - 👀 I’m interested in control theory, robotics, machine learning theory
 - 🌱 I’m currently learning optimization theory, machine learning theory
 - 💞️ I’m looking to collaborate on deep neural networks and llm model applications
